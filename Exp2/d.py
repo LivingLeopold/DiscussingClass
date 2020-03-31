@@ -1,5 +1,5 @@
 # coding=utf-8
-
+from b import jiami
 string1 = "路漫漫其修远兮，吾将上下而求索。"
 string2 = "Never put off until tomorrow what may be done today."
 #加密
